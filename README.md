@@ -1,4 +1,3 @@
-# datatables
 # DataTables
 DataTables is a mobile app for data management built using React Native. This app allows users to create, edit, and manage tabular data.
 ## Features
