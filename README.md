@@ -16,4 +16,4 @@ DataTables is a mobile app for data management built using React Native. This ap
 
 **Frontend:** React, Redux, Typescript, Axios, React Navigation
 
-**Frontend:** Node, Express, Firebase, Firestore (Database)
+**Backend:** Node, Express, Firebase, Firestore (Database)
